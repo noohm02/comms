@@ -156,13 +156,16 @@ export default function Home() {
             <p className="section-number">01 / Meaning</p>
             <div>
               <h2 id="meaning-title">Sustainability is an operating model.</h2>
-              <p>
-                More than an environmental claim, sustainable entrepreneurship asks a venture to
-                create economic and non-economic value while preserving the systems and communities
-                that make its work possible. In graphic communications, that responsibility extends
-                to land and materials, to Indigenous rights and knowledge, to clients and audiences,
-                and to the long-term health of the enterprise itself.
-              </p>
+       
+               <p>
+  This website applies three central graphic communications concepts—triple bottom
+  line sustainability, multi-channel marketing and accessible design—to the development
+  of a responsible entrepreneurial practice. Sustainable entrepreneurship asks a venture
+  to create economic and non-economic value while preserving the systems and communities
+  that make its work possible. In graphic communications, that responsibility extends
+  to land and materials, Indigenous rights and knowledge, clients and audiences, and the
+  long-term health of the enterprise itself.
+</p>
             </div>
           </div>
 
@@ -352,7 +355,9 @@ export default function Home() {
       </div>
 
       <footer>
-        <div><span className="footer-mark">SP</span><p><strong>Sustainable Pathways to Success</strong><br />Opportunities for entrepreneurship in graphic communications.</p></div>
+        <div><span className="footer-mark">SP</span><p><strong>Sustainable Pathways to Success</strong><br />Opportunities for entrepreneurship in graphic communications.<br />
+  Created by Nooh Muhammad for GCM 110 · Summer 2026
+</p></div>
         <a href="#top">Back to top ↑</a>
       </footer>
     </main>
