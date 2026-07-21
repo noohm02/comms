@@ -1,6 +1,6 @@
 # Sustainable Pathways to Success
 
-A responsive, accessible website on entrepreneurship in sustainable and social-impact graphic communications. It includes light/dark themes, keyboard-visible focus states, hover emphasis, firm spotlights and linked research.
+A responsive site on entrepreneurship in sustainable and social-impact graphic communications. It includes light/dark themes, keyboard-visible focus states, hover emphasis, firm spotlights and linked research.
 
 ## Preview locally
 
